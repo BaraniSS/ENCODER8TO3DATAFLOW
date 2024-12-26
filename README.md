@@ -47,7 +47,8 @@ the timing diagram. */
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: Barani  RegisterNumber:24900119
+Developed by: Barani SS
+RegisterNumber:24900119
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
